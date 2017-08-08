@@ -1,0 +1,12 @@
+<<<<<<< HEAD
+=======
+Hello, World!
+
+**************************
+
+Hello, Word!! Hello World!!
+
+***************************
+
+Hello from WindowsGIT!!!
+>>>>>>> d7b64d76d23c3a31c669fd97a6625447c247b993
